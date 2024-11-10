@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_sign_up" type="id" />
+    <item name="editTextAge" type="id" />
+    <item name="datePicker" type="id" />
+    <item name="timePicker" type="id" />
+    <item name="button_book" type="id" />
+    <item name="editTextName" type="id" />
+    <item name="textViewDoctorName" type="id" />
+</resources>
