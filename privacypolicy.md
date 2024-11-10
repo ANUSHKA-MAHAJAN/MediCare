@@ -57,4 +57,4 @@ We may update our Privacy Policy from time to time. Any changes will be posted i
 If you have any questions about this privacy policy or our data practices, please contact us at:
 
 Email: anushkamah03@gmail.com
-Address: anushka.12103602@lpu.in
+Address: Lovely Proffessional University, Punjab-144411
