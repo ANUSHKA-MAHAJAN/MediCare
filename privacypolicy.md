@@ -42,7 +42,7 @@ Depending on your location, you may have rights regarding your data, including t
 Access, update, or delete your personal information
 Restrict or object to certain processing of your data
 Withdraw consent at any time if we are processing your information based on consent
-To exercise any of these rights, please contact us at [Your Contact Email].
+To exercise any of these rights, please contact us at anushkamah03@gmail.com.
 
 7. Children’s Privacy
 
