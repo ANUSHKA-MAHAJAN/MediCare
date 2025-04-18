@@ -1,10 +1,10 @@
-Privacy Policy for MediCare
+Privacy Policy for CallMood
 
 Effective Date: 10 November 2024
 
 1. Introduction
 
-Welcome to MediCare. This privacy policy explains how we collect, use, disclose, and safeguard your information when you use our application. Please read this policy carefully to understand our views and practices regarding your personal data and how we will treat it.
+Welcome to CallMood. This privacy policy explains how we collect, use, disclose, and safeguard your information when you use our application. Please read this policy carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 2. Information We Collect
 
